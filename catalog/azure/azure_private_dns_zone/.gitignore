@@ -1,0 +1,6 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+# Keep the requested example terraform.tfvars; do not put secrets in them.

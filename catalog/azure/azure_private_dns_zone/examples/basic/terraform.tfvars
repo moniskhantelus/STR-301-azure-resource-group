@@ -1,0 +1,5 @@
+subscription_id          = "c82d5dd9-5800-4651-9179-d1131cc167aa"
+environment              = "public"//"usgovernment"
+vnet_name                = "vnet-kaas-cdp-dev-va"
+vnet_resource_group_name = "kaas-cdp-dev-networking-va-rg"
+resource_group_name      = "kaas-cdp-dev-platform-va-rg"
